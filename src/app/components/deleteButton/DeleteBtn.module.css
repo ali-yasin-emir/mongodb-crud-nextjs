@@ -1,0 +1,14 @@
+.deleteIcon{
+    width: 32px;
+    height: 32px;
+    color: red;
+    position: absolute;
+    top: 10px;   
+    right: 10px;
+    border: none;
+}
+
+.btn{
+    border: none;
+    cursor: pointer;
+}

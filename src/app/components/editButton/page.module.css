@@ -1,0 +1,17 @@
+
+
+
+.editIcon{
+    width: 32px;
+    height: 32px;
+    color: seagreen;
+    position: absolute;
+    top: 10px;   
+    right: 50px;
+    border: none;
+}
+
+.btn{
+    border: none;
+    cursor: pointer;
+}

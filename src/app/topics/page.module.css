@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 2rem 3rem;
+    background-color: lightblue;
+    min-height: 100vh;
+    
+}
+
+.topicList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* flex-direction: column; */
+    gap: 20px;
+}

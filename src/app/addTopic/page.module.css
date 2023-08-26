@@ -1,0 +1,32 @@
+.container{
+    width: 600px;
+    height: 250px;
+    background-color: lightcoral;
+    flex-direction: column;
+    border: 4px solid black;
+    position: relative;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    }
+
+    .btn{
+        border: none;
+        padding:  0.5em 1em;
+        align-self: flex-start;
+        margin-top: 20px;
+        cursor: pointer;
+    }
+    .input{
+        width: 250px;
+        height: 30px;
+        padding: 0.25em 0.5em;
+        resize: none;
+    }
